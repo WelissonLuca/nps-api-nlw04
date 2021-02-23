@@ -1,5 +1,5 @@
 
- <p align="center"> <img src="https://postimg.cc/SXjgmMhw"></p>
+[![Wallpaper-1920c1080.png](https://i.postimg.cc/257MFQX8/Wallpaper-1920c1080.png)](https://postimg.cc/SXjgmMhw)
 
 
   <h1 align="center">  NPS-API Net Promoter Score  </h1>
@@ -40,11 +40,11 @@
 * [📝 Licença](#📝-Licença)
 
 
-<<<<<<< HEAD
+
 ## 💻 Sobre o projeto
 =======
 ## 🏋️‍♀️ Sobre o projeto
->>>>>>> e02cd81031c8b11248d0ca1785f726d4e2f1b219
+
 
 
 O <strong>NPS-API</strong> é uma API Restful para Net Promoter Score.
