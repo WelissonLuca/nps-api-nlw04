@@ -54,7 +54,7 @@ Aplicação web construída na trilha <strong>NodeJS</strong> da <strong>Next Le
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
-  [Typescript](https://www.typescriptlang.org/)
+- [Typescript](https://www.typescriptlang.org/)
 - [Node.js](https://nodejs.org/en/)
 - [Express](https://expressjs.com/pt-br/)
 - [NPM](https://www.npmjs.com/)
