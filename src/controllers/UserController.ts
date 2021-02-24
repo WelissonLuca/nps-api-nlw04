@@ -1,12 +1,13 @@
 import { Request, Response } from 'express';
-import { FindRelationsNotFoundError, getRepository } from 'typeorm';
+import { getCustomRepository, getRepository } from 'typeorm';
 import { User } from '../models/User';
+import { UsersRepository } from '../repositories/UsersRepository';
 
 class UserController {
     async create(req: Request, res: Response) {
         const {name, email} = req.body;
         
-        const usersRepository = getRepository(User);
+        const usersRepository = getCustomRepository(UsersRepository);
         
         
         
