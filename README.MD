@@ -34,7 +34,6 @@
 
 * [📋 Sobre](##Sobre-o-projeto)
 * [🖥 Tecnologias:](#🖥-Tecnologias)
-* [👩🏿‍💻 Como executar o projeto](#👩🏿‍💻-Como-executar-o-projeto)
 * [🏋️‍♀️ Como contribuir para o projeto](#🏋️‍♀️-Como-contribuir-para-o-projeto)
 * [🦸 Autor](#🦸-Autor)
 * [📝 Licença](#📝-Licença)
@@ -42,7 +41,7 @@
 
 
 ## 💻 Sobre o projeto
-=======
+
 ## 🏋️‍♀️ Sobre o projeto
 
 
