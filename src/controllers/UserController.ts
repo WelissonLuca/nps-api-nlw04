@@ -1,6 +1,5 @@
 import { Request, Response } from 'express';
-import { getCustomRepository, getRepository } from 'typeorm';
-import { User } from '../models/User';
+import { getCustomRepository } from 'typeorm';
 import { UsersRepository } from '../repositories/UsersRepository';
 
 class UserController {
@@ -29,4 +28,4 @@ class UserController {
     }
 }
 
-export { UserController }
+export { UserController };
