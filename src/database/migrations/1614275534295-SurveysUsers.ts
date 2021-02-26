@@ -32,7 +32,7 @@ export class SurveysUsers1614275534295 implements MigrationInterface {
 				],
 				foreignKeys: [
 					{
-						name: "FkUser",
+						name: "FKUser",
 						referencedTableName: "users",
 						referencedColumnNames: ["id"],
 						columnNames: ["user_id"],
@@ -40,7 +40,7 @@ export class SurveysUsers1614275534295 implements MigrationInterface {
 						onUpdate: "CASCADE",
 					},
 					{
-						name: "FkSurvey",
+						name: "FKSurvey",
 						referencedTableName: "surveys",
 						referencedColumnNames: ["id"],
 						columnNames: ["survey_id"],
